@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @satheeswaranj
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning .net core
-- 💞️ I’m looking to collaborate on my learning
 - 📫 How to reach me satheeswaranj@gmail.com
 
 <!---
